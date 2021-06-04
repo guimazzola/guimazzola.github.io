@@ -15,9 +15,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- JavaScript
+- JavaScript (Consumo de uma API com Fetch API, manipulação do DOM, detecção do evento submit no formulário, async / await);
+- CSS (variáveis inseridas no escopo :root, @import, animação do evento :hover do mouse com transform que utiliza GPU do processador ao invés do CPU);
 - HTML
-- CSS
 
 ### Autor
 ---
